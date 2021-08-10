@@ -2,7 +2,7 @@
 a simple AC WiFi Remote, that works on the ESP32. Compiled Using Arduino IDE
 
   Important:
-  you will need to capture your own AC Remote code first before using this example
+  you will need to capture your own AC Remote code first before using this example, 
   follow instructions of how to here:
   https://community.dfrobot.com/makelog-308342.html
   
