@@ -13,7 +13,6 @@ a simple AC WiFi Remote, that works on the ESP32. Compiled Using Arduino IDE
   And IRremoteESP8266's IRsendDemo Example sketch form IRLib2
   https://github.com/crankyoldgit/IRremoteESP8266
   https://github.com/crankyoldgit/IRremoteESP8266/tree/master/examples/IRsendDemo
-  
   esp IR remote codes dumper/reader can be found here:
   https://community.dfrobot.com/makelog-308342.html
   
