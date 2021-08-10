@@ -3,7 +3,7 @@
   
   based on example by Rui Santos
   https://randomnerdtutorials.com/esp32-web-server-arduino-ide/
-  And IRremoteESP8266's IRsendDemo Example sketch form IRLib2
+  And IRremoteESP8266's IRsendDemo Example sketch form:
   https://github.com/crankyoldgit/IRremoteESP8266
   https://github.com/crankyoldgit/IRremoteESP8266/tree/master/examples/IRsendDemo
   
